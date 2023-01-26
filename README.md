@@ -8,7 +8,7 @@ I have recently finished college with a Computer Information Systems Degree and 
 
 *   🌍  I'm based in Estero, FL
 *   ✉️  You can contact me at [dakota.shively@gmail.com](mailto:dakota.shively@gmail.com)
-*   🧠  I'm learning React/more Python/Objective-C
+*   🧠  I'm currently learning Swift
 *   ⚡  On the side: I learn music production through FL Studio### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
