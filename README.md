@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer
 --------------------
 
-I have recently finished college with a Computer Information Systems Degree and am looking to begin professional work with my current understanding of HMTL/CSS/Javascript/SQL/Python/React languages. I look forward to learning more languages and beginning my Software Developer Career. I currently work for Apple Retail as a Technician Expert.
+I have recently finished college with a Computer Information Systems Degree and am looking to begin professional work with my current understanding of HMTL/CSS/Javascript/SQL/Python/React languages.  
+I currently work for Apple Retail as a Technician Expert.
+
+I look forward to learning more languages and beginning my Software Developer Career.
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [dakota.shively@gmail.com](mailto:dakota.shively@gmail.com)
